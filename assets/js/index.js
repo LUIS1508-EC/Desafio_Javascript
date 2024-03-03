@@ -1,8 +1,7 @@
 let precioInicial = 400000
 let cantidadInicial = 1
-precio = 400000
 
-let precio = document.querySelector(".precio-inicial");
+let precio = document.querySelector(".precio");
 let cantidad = document.querySelector(".cantidad");
 let total = document.querySelector(".total");
 
